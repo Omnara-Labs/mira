@@ -47,12 +47,26 @@ Through the **MCP (Model Context Protocol)**, Mira possesses a complete "Five Se
 
 ## 3. 🚀 Quick Start
 
+### 3.1 Prerequisites
 ```bash
 git clone [https://github.com/Omnara-Labs/mira.git](https://github.com/Omnara-Labs/mira.git)
 cd mira
 python -m venv mira_env
 source mira_env/bin/activate
 pip install -r requirements.txt
+```
+
+### 3.2 Configuration
+Copy `.env.example` to `.env` and fill in your API keys:
+```bash
 cp .env.example .env
-python mira_agent.py
+```
+## 4. 🛠️ Production Deployment
+
+Use `systemd` to ensure Mira stays online 24/7. After configuring the service file, run the following commands:
+```bash
+sudo systemctl enable mira_agent.service
+sudo systemctl start mira_agent.service
+```
+
 <div align="center"> <br /> <p><b><a href="https://www.omnara.top/">Omnara Labs</a> - Giving AI Temperature and Touch</b></p> </div>
