@@ -69,4 +69,4 @@ sudo systemctl enable mira_agent.service
 sudo systemctl start mira_agent.service
 ```
 
-<div align="center"> <br /> <p><b><a href="https://www.omnara.top/">Omnara Labs</a> - Giving AI Temperature and Touch</b></p> </div>
+<div align="center"> <br /> <p><b><a href="https://www.omnara.top/">Omnara Labs</a> - Giving AI Temperature and Touch</b></p> <p>Follow Our X: <a href="https://x.com/Omnara_official">@Omnara_official</a></p> </div></div>
