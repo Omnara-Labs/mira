@@ -13,7 +13,7 @@ A private, Nextcloud Talk-integrated AI assistant powered by DeepSeek V3.2, feat
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Python-Version](https://img.shields.io/badge/Python-3.10%2B-green)](requirements.txt)
 [![Nextcloud-Ready](https://img.shields.io/badge/Platform-Nextcloud%20Talk-informational)](https://nextcloud.com/talk/)
-[![Powered-by-DeepSeek](https://img.shields.io/badge/Powered%20by-DeepSeek--R1-6112a3)](https://github.com/deepseek-ai/DeepSeek-V3)
+[![Powered-by-DeepSeek](https://img.shields.io/badge/Powered%20by-DeepSeek--V3.2)](https://github.com/deepseek-ai/DeepSeek-V3)
 
 </div>
 
